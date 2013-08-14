@@ -20,9 +20,64 @@ http://ekaterinburg.dns-shop.ru/catalog/i162389/veb-kamera-ritmix-640x480-mic-us
 
 Что на фото:
 
-* случайная мошка что была найдена на столе, её ножка, и крыло (это порядка x100),
-* потом вид снаружи - размер самой мошки порядка миллиметра,
-* Карандаш с 0.5 мм грифелем, бумага в разметку, и с чертой карандаша в 0.5 мм грифелем,
-* ткань, экран монитора, фрагмент печатной продукции.
-* поверхностный монтаж на RaspberryPi, LED лампочка на PiFace, и LED лампочка на RaspberryPi, монетка 1 коп.
+* случайная мошка что была найдена на столе, её ножка, и крыло (это порядка x100 - перевёрнутый объектив),
+
+![ножка мошки](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/007.jpg)
+![ножка мошки](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/026.jpg)
+![крыло](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/069.jpg)
+
+* потом вид снаружи - размер самой мошки порядка миллиметра (эти и последующие снимки без переворачивания
+объектива, просто смещением фокуса),
+
+![мошка](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/082.jpg)
+![мошка](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/083.jpg)
+![мошка](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/084.jpg)
+![мошка](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/085.jpg)
+
+* карандаш с 0.5 мм грифелем, бумага в разметку, и с чертой карандаша в 0.5 мм грифелем,
+
+![грифель карандаша](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/086.jpg)
+![грифель карандаша](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/087.jpg)
+
+* копейка
+
+![копейка](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/088.jpg)
+![копейка](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/090.jpg)
+
+* пиксели на экране монитора
+
+![пиксели на экране монитора](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/089.jpg)
+
+* фрагмент печатной продукции
+
+![фрагмент печатной продукции](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/091.jpg)
+
+* ткань
+
+![ткань](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/092.jpg)
+
+* поверхностный монтаж на RaspberryPi
+
+![поверхностный монтаж на RaspberryPi](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/093.jpg)
+
+* LED лампочка на PiFace
+
+![LED лампочка на PiFace](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/094.jpg)
+
+* LED лампочка на RaspberryPi
+
+![LED лампочка на RaspberryPi](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/095.jpg)
+
+* чип
+
+![чип](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/096.jpg)
+
+* мошка с приближением фокусного расстояния
+
+![мошка](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/098.jpg)
+![мошка](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/099.jpg)
+![мошка](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/100.jpg)
+![мошка](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/101.jpg)
+![мошка](https://raw.github.com/webcam-microscope/webcam-microscope/master/examples/Ritmix-RVC-007M/102.jpg)
+
 
